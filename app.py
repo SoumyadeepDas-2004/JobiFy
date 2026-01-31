@@ -41,7 +41,7 @@ def extract_skills(description):
 
 # --- MAIN DASHBOARD ---
 def main():
-    st.title("🚀 Real-Time Tech Job Market Intelligence")
+    st.title("JobiFy: Real-Time Tech Job Market Intelligence")
     st.markdown("Analyzing live job postings from **WeWorkRemotely** to detect emerging tech trends.")
 
     # 1. LOAD DATA
@@ -110,4 +110,5 @@ def main():
         st.dataframe(filtered_df[['published_date', 'company', 'title', 'category', 'link']])
 
 if __name__ == "__main__":
+
     main()
