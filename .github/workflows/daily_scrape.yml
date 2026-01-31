@@ -2,8 +2,7 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'   # once per day (UTC)
   workflow_dispatch:
 
 permissions:
@@ -12,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -29,7 +28,7 @@ jobs:
       - name: Run Scraper
         run: python collect_jobs.py
 
-      - name: Commit and Push Data
+      - name: Commit and Push Data (safe)
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
@@ -37,6 +36,11 @@ jobs:
           git pull --rebase origin main
 
           git add wwr_tech_jobs.csv
-          git commit -m "Auto-update job data [skip ci]" || echo "No changes to commit"
 
+          if git diff --cached --quiet; then
+            echo "No changes detected. Skipping push."
+            exit 0
+          fi
+
+          git commit -m "Auto-update job data [skip ci]"
           git push origin main
