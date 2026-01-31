@@ -1,4 +1,0 @@
-feedparser
-requests
-pandas
-beautifulsoup4
