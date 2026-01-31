@@ -1,0 +1,111 @@
+job_id,title,company,category,full_description,published_date,link,fetched_at,dataset_last_updated_utc
+https://weworkremotely.com/remote-jobs/madeo-web-developer-contract,Web Developer (Contract),Madeo,Back-End Programming,"Headquarters:  Brooklyn, NY
+     URL:   https://madeostudio.com/ 
+ 
+ Contract Web Developer 
+   
+ About the Role 
+ We are inviting an experienced WordPress developer to join our team of 7 engineers. This is a remote contract role that may extend in time or with additional opportunities to join projects based on performance. Part-time and full-time availability will be considered. Please share more information with us about your experience and availability in the application. 
+ Minimum Qualifications 
+ Candidates need to meet the requirements below to be considered for the role: 
+ 
+ 3+ years of demonstrated experience in web development 
+ Showcase of WordPress-developed websites, proven experience building custom 
+ Gutenberg blocks 
+ Strong proficiency in PHP, MySQL/MariaDB, JavaScript (ES6+) 
+ Working knowledge of RESTful APIs, authentication, and integration patterns 
+ Experience with Git-based workflows and modern development tools 
+ Demonstrated experience working within a remote team 
+ Agency experience working on multiple client projects in parallel 
+ Strong written and verbal English communication skills 
+ 
+ Nice to Have Qualifications 
+ 
+ Experience with Drupal 9/10 development, site configuration, and backend integrations with third-party platforms 
+ 
+ Key tools and languages we currently use 
+ 
+ Back-End: PHP 8+, MySQL/MariaDB, GraphQL, RestAPI, GitHub, WordPress Gutenberg blocks, WordPress Custom Themes and Plugins 
+ Front-End: Gulp.js, SCSS, Next.js, Bootstrap 5+, JavaScript, ES6+, GitHub 
+ 
+ How to Apply  
+ We invite you to learn more about our culture, projects, and approach, and to spend time with our featured case studies on our website. Please apply if you believe you are qualified for and interested in working on similar projects. Click the button below to complete the application and be considered for this role. 
+ To apply:   https://weworkremotely.com/remote-jobs/madeo-web-developer-contract",2026-01-29 20:32:53+00:00,https://weworkremotely.com/remote-jobs/madeo-web-developer-contract,2026-01-31T15:57:51.892701,2026-01-31T15:57:52.099827+00:00
+https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer,Freelance Agent Evaluation Engineer,Mindrift,Back-End Programming,"Headquarters:  India
+     URL:   https://mindrift.ai/ 
+ 
+ Please submit your CV in English and indicate your level of English proficiency. 
+ Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.  Participation is project‑based as an independent freelance contributor and does not create an employment relationship with Toloka or our clients. 
+ What this opportunity involves  
+ As an independent freelance contributor, you choose which projects to join and how you organize your work, as long as deliverables meet the project requirements and deadlines. 
+ While each project involves unique tasks, contributors may:  
+ 
+ Create structured test cases that simulate complex human workflows  
+ Define gold-standard behavior and scoring logic to evaluate agent actions  
+ Analyze agent logs, failure modes, and decision paths  
+ Work with code repositories and test frameworks to validate your scenarios  
+ Iterate on prompts, instructions, and test cases to improve clarity and difficulty  
+ Ensure that scenarios are production-ready, easy to run, and reusable 
+ 
+ What we look for 
+ This opportunity is a good fit for software engineers, open to part-time, non-permanent projects. Ideally, contributors will have:   
+ 
+ 3+ of software development experience with strong Python focus  
+ Experience with Git and code repositories  
+ Comfortable with structured formats like JSON/YAML for scenario description  
+ Understanding core LLM limitations (hallucinations, bias, context limits) and how these affect evaluation design  
+ Familiarity with Docker  
+ English proficiency - B2 
+ 
+ How it works  
+ Apply → Pass qualification(s) → Select a project  →  Complete tasks on your own schedule within project timelines→ Get paid 
+ Project time expectations  
+ For this project, tasks are estimated to require around 6-10 hours of work per week during active phases, depending on the tasks you choose to complete. This is an estimate only and does not create any minimum or guaranteed hours. 
+ Payment  
+ 
+ Paid freelance contributions, with rates that may be equivalent to  up to $80/hour*  (project‑ and task‑based) 
+ Fixed project rate or individual rates, depending on the project  
+ Some projects include incentive payments  
+ 
+ *Note: Rates vary based on expertise, skills assessment, location, project needs, and other factors. Higher rates may be offered to highly specialized experts. Lower rates may apply during onboarding or non-core project phases. Payment details are shared per project. 
+ To apply:   https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer",2026-01-27 11:39:43+00:00,https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer,2026-01-31T15:57:51.927964,2026-01-31T15:57:52.099827+00:00
+https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks,Freelance Senior Python Developer - Functional Test Frameworks,Mindrift,Back-End Programming,"Headquarters:  Spain
+     URL:   https://mindrift.ai/ 
+ 
+ Please submit your CV in English and indicate your level of English proficiency. 
+ Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.  Participation is project‑based as an independent freelance contributor and does not create an employment relationship with Toloka or our clients. 
+ What this opportunity involves  
+ As an independent freelance contributor, you choose which projects to join and how you organize your work, as long as deliverables meet the project requirements and deadlines. 
+ While each project involves unique tasks, contributors may:  
+ 
+ Coordinate cross-language migration workflows by analyzing C/Rust/Go codebases to create behavioral tests and migration stubs for Rust targets.  
+ Design and implement black-box functional test frameworks (pytest + uv, Python 3.10) for native CLI projects.  
+ Built reproducible Docker evaluation images and CI pipelines for agent evaluation (Dagger/Codespaces), handling secure workspace setup and git submodule integration.  
+ Apply professional judgment to assess AI responses. 
+ 
+ What we look for 
+ This opportunity is a good fit for senior software developers open to part-time, non-permanent projects. Ideally, contributors will have:   
+ 
+ Degree in Computer Science, Software Engineering or related fields  
+ 5+ years in software development with at least 5 years in Python  
+ Familiarity with C, Rust, Go / confidence to read this code with LLM  
+ English proficiency - B2  
+ Stable internet connection   
+ 
+ How it works  
+ Apply → Pass qualification(s) → Select a project  →  Complete tasks on your own schedule within project timelines→ Get paid 
+ Project time expectations  
+ For this project, tasks are estimated to require around 10-20 hours of work per week during active phases, depending on the tasks you choose to complete. This is an estimate only and does not create any minimum or guaranteed hours. 
+ Payment  
+ 
+ Paid freelance contributions, with rates that may be equivalent to  up to $80/hour*  (project‑ and task‑based) 
+ Fixed project rate or individual rates, depending on the project  
+ Some projects include incentive payments  
+ 
+ *Note: Rates vary based on expertise, skills assessment, location, project needs, and other factors. Higher rates may be offered to highly specialized experts. Lower rates may apply during onboarding or non-core project phases. Payment details are shared per project. 
+ To apply:   https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks",2026-01-27 10:54:50+00:00,https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks,2026-01-31T15:57:51.930122,2026-01-31T15:57:52.099827+00:00
+https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer,FTG Engineer,ALIQAN Technologies,Front-End Programming,"Headquarters:  Bangalore
+     URL:   http://aliqantechnologies.com 
+ 
+ Job Title:  FTG Developer / Engineer   Experience:  5 to 8 Years   Location:  Remote   Employment Type:  Contract (6 Months – Extendable) Job Description: We are seeking a skilled  FTG Developer/Engineer  with hands-on experience in  IBM Sterling Suite  and strong exposure to  AWS cloud services . The ideal candidate should possess a solid understanding of  CI/CD workflows ,  infrastructure automation , and  deployment pipelines  using modern DevOps tools. This role requires close collaboration with cross-functional teams to build, deploy, and maintain scalable enterprise solutions. Key Responsibilities: Develop, configure, and maintain solutions using  IBM Sterling Suite . Manage and optimize cloud infrastructure using  AWS services  (EC2, S3, EFS, RDS, IAM, etc.). Design and implement  CI/CD pipelines  using  CloudBees  or equivalent tools. Automate provisioning and configuration management using  Terraform  and  Ansible . Collaborate with development, testing, and operations teams to ensure smooth delivery and deployment of applications. Monitor system performance, troubleshoot issues, and ensure high availability and scalability. Follow best practices for security, compliance, and operational excellence. Mandatory Skills: Strong experience with  IBM Sterling Suite . Hands-on experience with  AWS services  – EC2, S3, EFS, RDS, IAM. Proficiency in  CI/CD pipelines  and experience with  CloudBees . Solid experience with  Terraform  and  Ansible  for automation and infrastructure as code. Good to Have: Familiarity with  Docker  or other containerization tools. Exposure to  Kubernetes  or orchestration tools. Strong problem-solving and communication skills. 
+ To apply:   https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer",2026-01-09 18:50:56+00:00,https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer,2026-01-31T15:57:52.070010,2026-01-31T15:57:52.099827+00:00
