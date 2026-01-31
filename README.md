@@ -89,21 +89,21 @@ JobiFy/
 
 ---
 
-## ⏱️ Automated Data Updates
-
-Job data is refreshed **daily** using GitHub Actions.
-
----
-
-## Screenshots:
+## 📸 Screenshots:
 <img width="1913" height="866" alt="image" src="https://github.com/user-attachments/assets/ababb25d-a986-433e-b394-845529495498" />
-<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/f6c33bba-29d9-428b-8c07-32ecae0b0693" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/a454b24c-1dc8-401c-9caa-fe21755ff000" />
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/a5e12317-7a0c-4f68-8b74-f25b4f38da4b" />
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/34e0d15e-712f-4a0f-82c2-884cc1b0a95a" />
 
 ---
 
-## Live Demo Link: https://jobify-jrlagj6idnel5epvrrkftx.streamlit.app/
+## 🔴 Live Demo
+
+🚀 **Live App:** https://your-streamlit-app-url  
+📊 **Auto-updated daily via GitHub Actions**
+
+---
+
 
 
 
