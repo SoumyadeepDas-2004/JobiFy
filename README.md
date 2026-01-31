@@ -99,7 +99,7 @@ JobiFy/
 
 ## 🔴 Live Demo
 
-🚀 **Live App:** https://jobify-jrlagj6idnel5epvrrkftx.streamlit.app/
+🚀 **Live App:** https://jobify-jrlagj6idnel5epvrrkftx.streamlit.app/  
 📊 **Auto-updated daily via GitHub Actions**
 
 ---
